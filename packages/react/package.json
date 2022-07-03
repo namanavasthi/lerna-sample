@@ -1,0 +1,17 @@
+{
+  "name": "react",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist && rollup --config ../../rollup.config.js",
+    "test": "jest -c ../../jest.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "button": "*"
+  }
+}
