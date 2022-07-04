@@ -1,6 +1,6 @@
 {
   "name": "@namanavasthi11/react",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -13,5 +13,5 @@
   "dependencies": {
     "button": "^1.0.12"
   },
-  "gitHead": "ffad644ac7e2e9749ddb87619cf336bdc43095dc"
+  "gitHead": "2b628e45cb7da57e30b6d097cfe51c39ebf16c8d"
 }
