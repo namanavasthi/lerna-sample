@@ -1,6 +1,5 @@
 {
   "packages": ["packages/*"],
   "useNx": true,
-  "version": "1.0.5",
-  "useWorkspaces": true
+  "version": "1.0.5"
 }
