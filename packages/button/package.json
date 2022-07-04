@@ -1,5 +1,5 @@
 {
-  "name": "@namanavasthi/button",
+  "name": "button",
   "version": "1.0.4",
   "description": "",
   "main": "dist/index.js",
@@ -10,5 +10,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "420d099df8a170e9e6fea983517a94ec5289e8c3"
+  "gitHead": "de118088c400e124ffbdcf060ffb8aa10d6bb232"
 }

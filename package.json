@@ -7,6 +7,7 @@
   ],
   "author": "Naman Avasthi",
   "license": "ISC",
+  "description": "A sample package testing lerna with nx",
   "scripts": {
     "release": "lerna publish"
   },
@@ -24,17 +25,5 @@
     "ts-jest": "^27.1.1",
     "tslib": "^2.3.1",
     "typescript": "^4.5.2"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/namanavasthi"
-  },
-  "description": "A sample package testing lerna with nx",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/namanavasthi/lerna-sample.git"
-  },
-  "bugs": {
-    "url": "https://github.com/namanavasthi/lerna-sample/issues"
-  },
-  "homepage": "https://github.com/namanavasthi/lerna-sample#readme"
+  }
 }
