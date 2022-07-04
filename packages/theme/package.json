@@ -1,0 +1,17 @@
+{
+  "name": "@namanavasthi/theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist && rollup --config ../../rollup.config.js",
+    "test": "jest -c ../../jest.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namanavasthi/lerna-sample.git"
+  }
+}
