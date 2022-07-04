@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "@namanavasthi/lerna-sample/button",
   "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
@@ -10,5 +10,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "bd6afc2d188ea0dcdfa9f8737a98260ecce89900"
+  "gitHead": "938686c26a49971e7ea41be262aa83333ad963c0"
 }
