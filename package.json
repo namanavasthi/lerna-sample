@@ -7,6 +7,9 @@
   ],
   "author": "Naman Avasthi",
   "license": "ISC",
+  "scripts": {
+    "release": "lerna publish"
+  },
   "devDependencies": {
     "lerna": "^5.1.6",
     "nx": "^14.4.0",
