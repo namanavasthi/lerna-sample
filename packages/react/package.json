@@ -13,5 +13,8 @@
   "dependencies": {
     "button": "^1.0.5"
   },
-  "gitHead": "de118088c400e124ffbdcf060ffb8aa10d6bb232"
+  "gitHead": "8135bf1eba4c19b5f4fdfbf5f11a372b1c7cb836",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/namanavasthi/lerna"
+  }
 }
