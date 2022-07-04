@@ -1,6 +1,6 @@
 {
   "name": "@namanavasthi/button",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -10,5 +10,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "afca0cf19890e1806ef33c12184b0f50bcf99120"
+  "gitHead": "73f946b2fabe6bdc8b7eb280cd946360fcd4c4b5"
 }
