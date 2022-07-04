@@ -29,9 +29,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/namanavasthi/lerna-sample.git"
-  },
-  "bugs": {
-    "url": "https://github.com/namanavasthi/lerna-sample/issues"
-  },
-  "homepage": "https://github.com/namanavasthi/lerna-sample#readme"
+  }
 }
