@@ -13,8 +13,5 @@
   "dependencies": {
     "button": "^1.0.8"
   },
-  "gitHead": "8da6e6ee835415e6ea7e2b46d7917316764054be",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/namanavasthi"
-  }
+  "gitHead": "e2ff69da19488c87fa2d9090d17f2261990b5b6d"
 }
