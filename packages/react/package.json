@@ -13,5 +13,9 @@
   "dependencies": {
     "button": "^1.0.12"
   },
-  "gitHead": "1ca9f5bc7f00d42ee903b060ff4d9f5b32d0286e"
+  "gitHead": "4f77c8c8595d2943524d060f8172ac0a83d84c9c",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namanavasthi/lerna-sample.git"
+  }
 }
