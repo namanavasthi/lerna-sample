@@ -1,6 +1,6 @@
 {
   "name": "react",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "button": "^1.0.8"
+    "button": "^1.0.9"
   },
   "gitHead": "e2ff69da19488c87fa2d9090d17f2261990b5b6d"
 }
