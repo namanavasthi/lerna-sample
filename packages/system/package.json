@@ -1,5 +1,5 @@
 {
-  "name": "@namanavasthi/theme",
+  "name": "@namanavasthi/system",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -15,8 +15,8 @@
     "url": "git+https://github.com/namanavasthi/lerna-sample.git"
   },
   "dependencies": {
-    "@namanavasthi/utils": "*",
+    "@namanavasthi/color-mode": "*",
     "@namanavasthi/styled-system": "*",
-    "@namanavasthi/system": "*"
+    "@namanavasthi/utils": "*"
   }
 }

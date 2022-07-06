@@ -5,6 +5,9 @@
     "nx",
     "package"
   ],
+  "workspaces": [
+    "packages/*"
+  ],
   "author": "Naman Avasthi",
   "license": "ISC",
   "description": "A sample package testing lerna with nx",

@@ -1,5 +1,5 @@
 {
-  "name": "@namanavasthi/theme",
+  "name": "@namanavasthi/styled-system",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "@namanavasthi/utils": "*",
-    "@namanavasthi/styled-system": "*",
-    "@namanavasthi/system": "*"
+    "csstype": "^3.1.0"
   }
 }
